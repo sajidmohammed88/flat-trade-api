@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/FlatTradeConsole/bin/Debug
+/FlatTradeConsole/obj/Debug
+/FlatTradeLibrary/bin/Debug
+/FlatTradeLibrary/obj/Debug
+/packages/Newtonsoft.Json.13.0.1
+/FlatTradeApi_last_version.zip
